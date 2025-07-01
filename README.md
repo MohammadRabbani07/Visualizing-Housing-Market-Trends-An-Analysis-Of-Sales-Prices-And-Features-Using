@@ -1,1 +1,2 @@
 # Visualizing-Housing-Market-Trends-An-Analysis-Of-Sales-Prices-And-Features-Using
+This project focuses on analyzing and visualizing housing market trends using historical housing data. It aims to uncover patterns in sales prices and explore how various features—such as location, number of rooms, and square footage—impact property values. Through effective data wrangling, exploratory data analysis, and interactive visualizations, this project provides valuable insights for buyers, sellers, and real estate analysts.
